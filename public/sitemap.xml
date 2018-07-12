@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://were.about.to.get-serio.us/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://were.about.to.get-serio.us/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://were.about.to.get-serio.us/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://were.about.to.get-serio.us/</loc>
+  </url>
+  
+</urlset>

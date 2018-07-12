@@ -1,0 +1,22 @@
+baseURL = "https://were.about.to.get-serio.us/"
+languageCode = "en-us"
+title = "We're about to getting Serious. Siriusly."
+theme = "seminyak"
+
+[params]
+  color_palette = "yellow" # Required, adjusts color palette
+  theme_color = "#fffdc3" # Optional, theme-color meta tag
+  referrer_policy = "same-origin" # Optional, referrer policy meta tag
+  #background_image_url = "/images/IMG_20170728_210816.jpg" # Optional, background image
+  #background_image_url = "/images/IMG_0939.JPG" # Optional, background image
+  background_image_url = "/images/IMG_20170318_191857.jpg" # Optional, background image
+  #background_image_url = "/images/IMG_20170430_121510.jpg" # Optional, background image
+  #background_image_url = "/images/IMG_20170630_222637-ANIMATION.gif" # Optional, background image
+  #background_image_url = "/images/IMG_20170728_214541.jpg" # Optional, background image
+  #background_image_url = "/images/IMG_20171021_160221.jpg" # Optional, background image
+  #background_image_url = "/images/IMG_20171021_160223.jpg" # Optional, background image
+  #background_image_url = "/images/IMG_20171223_010743.jpg" # Optional, background image
+  #background_image_url = "/images/IMG_20171228_125600.jpg" # Optional, background image
+  #background_image_url = "/images/IMG_20180422_090313.jpg" # Optional, background image
+  #background_image_url = "/images/IMG_20180614_204556.jpg" # Optional, background image
+  google_fonts = "Oswald|Raleway" # Passed to Google for Web Font
